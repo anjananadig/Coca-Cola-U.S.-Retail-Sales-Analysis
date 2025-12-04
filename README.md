@@ -3,6 +3,7 @@
 This project presents an interactive **Excel-based Business Intelligence dashboard** analyzing Coca-Cola’s retail sales performance across the United States.  
 The dashboard highlights national sales trends, retailer profitability, beverage brand performance, and geographic sales insights using dynamic visualizations and slicers.
 
+![Dashboard Screenshot]()
 
 ## 📊 Project Overview
 
